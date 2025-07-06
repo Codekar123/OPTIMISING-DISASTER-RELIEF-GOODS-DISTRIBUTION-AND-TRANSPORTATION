@@ -19,8 +19,8 @@ This project models and solves the problem of optimally routing disaster relief 
 - `DAY2_P4.pdf`: Full project report detailing models, constraints, and implementation
 
 ### 👥 Contributors
-- Sai Ganesh — ACO code and documentation  
-- Sathwik — LP model and implementation
+- Sai Ganesh 
+- Sathwik Thupakula 
 
 ---
 
