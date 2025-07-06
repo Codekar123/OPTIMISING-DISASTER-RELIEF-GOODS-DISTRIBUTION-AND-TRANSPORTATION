@@ -31,3 +31,11 @@ python LP_DR_OPTI.py
 
 # For ACO model
 python ForLargeNoOfVaraibles_usingACO.py
+
+---
+
+### ✅ Resume Bullet Points (as promised earlier):
+- Built optimization models to minimize delivery times in disaster relief logistics using Python, PuLP (LP), and Ant Colony Optimization.
+- Handled warehouse-to-region routing, vehicle assignment, and capacity constraints in both deterministic and dynamic environments.
+- Compared brute-force, LP, and ACO approaches, validating scalability and adaptability on varied data sets.
+
